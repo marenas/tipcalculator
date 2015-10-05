@@ -100,7 +100,7 @@
                     </connections>
                 </textField>
                 <view contentMode="scaleToFill" id="Mm0-1Y-9qj">
-                    <rect key="frame" x="0.0" y="351" width="375" height="328"/>
+                    <rect key="frame" x="0.0" y="128" width="375" height="539"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                     <color key="backgroundColor" red="0.015686274510000001" green="0.6705882353" blue="0.81568627449999997" alpha="1" colorSpace="calibratedRGB"/>
                     <color key="tintColor" cocoaTouchSystemColor="darkTextColor"/>
